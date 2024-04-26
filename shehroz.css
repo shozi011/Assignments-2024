@@ -1,0 +1,13 @@
+.div1{
+    width: 250px;
+    height: 250px;
+    margin: 50px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.A{
+    width: 20px;
+    height: 20px;
+}

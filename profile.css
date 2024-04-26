@@ -1,0 +1,250 @@
+.div1{
+width: 1700px;
+height: 120px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+
+}
+.img1{
+    width: 50px;
+    height: 50px;
+    margin: 50px;
+}
+.img2{
+    width: 50px;
+    height: 50px;
+    margin: 50px;
+}
+.img3{
+    width: 800px;
+    height: 800p;
+}
+.div2{
+    background-color:goldenrod;
+    width: 1700px;
+    height: 650px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.h1{
+    background-color: white;
+    color: black;
+    width: 800px;
+    height: 100px;
+    font-size: 80px;
+}
+.par1{
+    font-size: 30px;
+
+}
+.a1{
+    color: black;
+}
+.par2{
+    font-size: 20px;
+}
+.b1{
+    background-color: white;
+    color: black;
+    width: 400px;
+    height: 80px ;
+    font-size: 25px;
+    
+}
+.a2{
+    color: black;
+    text-decoration: none;
+}
+.div3{
+    
+}
+.h3{
+    text-align: center;
+    font-size: 50px;
+}
+.par4{
+    text-align: center;
+    font-size: 30px;
+}
+.a3{
+    color: black;
+}
+.middiv{
+    width: 450px;
+    height: 400px;
+    box-shadow: 5px 10px rgba(122, 211, 233, 0.4); ;
+    background-color:wheat;
+    
+}
+.par5{
+    font-size: 30px;
+    margin: 40px;
+}
+.div5{
+    width: 450px;
+    height: 400px;
+    background-color:wheat;
+    box-shadow: 5px 10px rgba(122, 211, 233, 0.4);
+}
+.par6{
+    font-size: 30px;
+    margin: 40px;
+}
+.div6{
+    width: 450px;
+    height: 400px;
+    background-color: wheat;
+    box-shadow: 5px 10px rgba(122, 211, 233, 0.4);
+}
+.par7{
+    font-size: 30px;
+    margin: 40px;
+}
+.maindiv{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.hea1{
+    font-size: 40px;
+    margin: 30px;
+}
+.hea2{
+    font-size: 40px;
+    margin: 30px;
+}
+.hea3{
+    font-size: 40px;
+    margin: 30px;
+}
+.maindiv2{
+ display: flex;
+ justify-content: space-evenly;
+ background-color: yellow;
+ align-items: center;   
+ width: 1700px;
+ height: 750px;
+}
+.hea3{
+    font-size: 40px;
+}
+.para1{
+    font-size: 25px;
+    width: 300px;
+    
+}
+.para2{
+    font-size: 20px;
+    width: 300px;
+}
+.image1{
+    width: 40px;
+    height: 40px;
+}
+.image2{
+    width: 40px;
+    height: 40px;
+}
+.image3{
+    width: 40px;
+    height: 40px;
+}
+.image4{
+    width: 40px;
+    height: 40px;
+}
+.lab1{
+    font-size: 30px;
+
+}
+.lab2{
+    font-size: 30px;
+}
+.lab3{
+    font-size: 30px;
+}
+.box1{
+    width: 300px;
+    height: 50px;
+    
+}
+.box2{
+    width: 300px;
+    height: 50px;
+}
+.box3{
+    width: 300px;
+    height: 300px;
+
+}
+.b6{
+    color: white;
+    background-color: black;
+    width: 250px;
+    height: 80px;
+    margin: 40px;
+    
+}
+.para5{
+    font-size: 25px;
+}
+.maindiv3{
+    background-color: black;
+
+}
+.pr2{
+    color: white;
+    text-align: center;
+}
+.pr3{
+    color: white;
+    text-align: center;
+}
+.pr5{
+text-align: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
